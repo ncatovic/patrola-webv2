@@ -20,6 +20,8 @@ module.exports = {
             'cursive-kaushan': ['"Kaushan Script", cursive'],
             'head-ebgaramond': ['"EB Garamond", serif'],
             'para-worksans': ['"Work Sans", sans-serif'],
+            'ubuntu':['"Ubuntu", sans-serif'],
+            'inter':['"Inter", sans-serif;'],
         },
         container: {
             center: true,
@@ -33,9 +35,11 @@ module.exports = {
         },
         extend: {
             colors: {
-                'dark': '#3c4858',
+                //'dark': '#3c4858',
+                'dark': '#444b98',
+                
                 'black': '#161c2d',
-                'dark-footer': '#192132',
+                //'dark-footer': '#192132',
             },
 
             boxShadow: {

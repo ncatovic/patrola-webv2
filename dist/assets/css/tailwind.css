@@ -3187,6 +3187,15 @@ video {
 .align-middle{
   vertical-align: middle !important;
 }
+.align-bottom{
+  vertical-align: bottom !important;
+}
+.align-text-top{
+  vertical-align: text-top !important;
+}
+.align-text-bottom{
+  vertical-align: text-bottom !important;
+}
 .font-cursive-alex{
   font-family: "Alex Brush", cursive !important;
 }
