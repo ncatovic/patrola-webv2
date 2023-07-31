@@ -2222,11 +2222,7 @@ video {
 }
 .bg-dark{
   --tw-bg-opacity: 1 !important;
-  background-color: rgb(60 72 88 / var(--tw-bg-opacity)) !important;
-}
-.bg-dark-footer{
-  --tw-bg-opacity: 1 !important;
-  background-color: rgb(25 33 50 / var(--tw-bg-opacity)) !important;
+  background-color: rgb(68 75 152 / var(--tw-bg-opacity)) !important;
 }
 .bg-emerald-600{
   --tw-bg-opacity: 1 !important;
@@ -3187,15 +3183,6 @@ video {
 .align-middle{
   vertical-align: middle !important;
 }
-.align-bottom{
-  vertical-align: bottom !important;
-}
-.align-text-top{
-  vertical-align: text-top !important;
-}
-.align-text-bottom{
-  vertical-align: text-bottom !important;
-}
 .font-cursive-alex{
   font-family: "Alex Brush", cursive !important;
 }
@@ -3383,14 +3370,10 @@ video {
 }
 .text-dark{
   --tw-text-opacity: 1 !important;
-  color: rgb(60 72 88 / var(--tw-text-opacity)) !important;
-}
-.text-dark-footer{
-  --tw-text-opacity: 1 !important;
-  color: rgb(25 33 50 / var(--tw-text-opacity)) !important;
+  color: rgb(68 75 152 / var(--tw-text-opacity)) !important;
 }
 .text-dark\/\[0\.03\]{
-  color: rgb(60 72 88 / 0.03) !important;
+  color: rgb(68 75 152 / 0.03) !important;
 }
 .text-emerald-600{
   --tw-text-opacity: 1 !important;
@@ -5295,7 +5278,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
   font-size: 1rem;
   line-height: 1.5rem;
   --tw-text-opacity: 1;
-  color: rgb(60 72 88 / var(--tw-text-opacity));
+  color: rgb(68 75 152 / var(--tw-text-opacity));
   --tw-shadow: 0 5px 13px rgb(60 72 88 / 0.20);
   --tw-shadow-colored: 0 5px 13px var(--tw-shadow-color);
   -webkit-box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
@@ -6848,7 +6831,7 @@ html[dir=rtl] .tns-visually-hidden {
 
 .group:hover .group-hover\:bg-dark{
   --tw-bg-opacity: 1 !important;
-  background-color: rgb(60 72 88 / var(--tw-bg-opacity)) !important;
+  background-color: rgb(68 75 152 / var(--tw-bg-opacity)) !important;
 }
 
 .group:hover .group-hover\:bg-indigo-600{
@@ -7253,11 +7236,6 @@ html[dir=rtl] .tns-visually-hidden {
 
 :is(.dark .dark\:bg-amber-600\/30){
   background-color: rgb(217 119 6 / 0.3) !important;
-}
-
-:is(.dark .dark\:bg-dark-footer){
-  --tw-bg-opacity: 1 !important;
-  background-color: rgb(25 33 50 / var(--tw-bg-opacity)) !important;
 }
 
 :is(.dark .dark\:bg-emerald-600\/30){
